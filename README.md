@@ -16,5 +16,6 @@ gam calendar <email> show event
 ## Usage
 
 ```bash
-python3 gamcalendar.py
+python3 gamcalendar.py <recipient_email> <event_id> <response_answer>
 ```
+Accepted values of response_answer are: accepted/rejected/needsAction
